@@ -5,6 +5,8 @@ Title: Rock-Paper-Scissors Game
 Description:
 Welcome to the Rock-Paper-Scissors (RPS) game, a simple yet entertaining game that allows you to challenge the computer in a classic showdown. This repository contains the source code for an interactive RPS game built using HTML, CSS, and JavaScript. Engage in the age-old battle of Rock, Paper, and Scissors against the computer, testing your strategy and luck in this timeless game.
 
+url link :https://rock-paper-scissor-20.netlify.app/
+
 Key Features:
 
     User-friendly interface developed with HTML and CSS
